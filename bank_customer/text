@@ -1,0 +1,16 @@
+JQN37jBBkJsZmyCh
+
+
+role-based access control
+user A, user B, User C
+
+
+user A
+    role: admin
+
+user B
+    role: member
+    add_member
+
+user C
+    role: member
